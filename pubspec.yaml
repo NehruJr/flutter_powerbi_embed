@@ -1,7 +1,7 @@
 name: flutter_powerbi_embed
 description: "A Flutter package that uses WebView to seamlessly embed Power BI reports and dashboards in your Flutter applications."
 version: 0.0.1
-homepage:
+homepage: https://github.com/NehruJr/flutter_powerbi_embed
 
 environment:
   sdk: ^3.6.2
